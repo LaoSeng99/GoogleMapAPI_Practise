@@ -1,5 +1,6 @@
 ﻿# Google Maps API 
 **If you love it please give me a star
+
 A simple ASP.NET Core 8+ wrapper for Google Maps API services including geocoding, reverse geocoding, autocomplete, nearby places search, and place details.
 
 ## Features
